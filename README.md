@@ -1,2 +1,0 @@
-# StringCalculator
-Verkefni_1
